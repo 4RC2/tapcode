@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KoppKód</string>
+    <string name="mi_help">Segítség</string>
+    <string name="mi_quit">Kilépés</string>
+    <string name="tv_info"><![CDATA[_ = rövid szünet (kódrészek között) \n __ = hosszú szünet (betű után) \n / = szóköz & hangjelzés (szó után) \n < = visszatörlés]]></string>
+    <string name="b_wikipedia_showtable">KoppKód táblázat</string>
+    <string name="b_wikipedia_showpage">KoppKód a Wikipédián</string>
+    <string name="b_tap">KOPP</string>
+</resources>

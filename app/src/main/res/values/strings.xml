@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TapCode</string>
+    <string name="mi_help">Help</string>
+    <string name="mi_quit">Quit</string>
+    <string name="b_tap">TAP</string>
+    <string name="tv_info"><![CDATA[_ = short pause (between code parts) \n __ = long pause (after letter) \n / = space & sound signal (after word) \n < = backspace]]></string>
+    <string name="b_wikipedia_showpage">TapCode on Wikipedia</string>
+    <string name="b_wikipedia_showtable">TapCode table</string>
+</resources>
